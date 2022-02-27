@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--TODO(Step 12 - Adding a background to the timer "remaining time text".)-->
+<!--START-->
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="rectangle"
+    >
+    <corners android:radius="8pt"/>
+
+
+    <solid android:color="#D24C94"/>
+</shape>
